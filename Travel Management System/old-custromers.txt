@@ -1,0 +1,42 @@
+
+Customer ID :1800
+Namemoksh
+Age20
+Mobile Number :200218
+Address :email
+Gender :female
+
+Customer ID : 1000
+Name : guru_jadhav
+Age : 14
+Mobile Number : 0
+Address : beed
+Gender : male
+
+Customer ID : 2511
+Name : jyoti
+Age : 45
+Mobile Number : 7249
+Address : dhule_beed
+Gender : female
+
+Customer ID : 2000
+Name : abcd
+Age : 11
+Mobile Number : 2001
+Address : bhaad
+Gender : dk
+
+Customer ID : 10
+Name : a
+Age : 0
+Mobile Number : 828183461
+Address : 
+Gender : 
+
+Customer ID : 10
+Name : dv
+Age : 2
+Mobile Number : 13
+Address : efv
+Gender : d
